@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uengieleno.josdejong.com/sitemap.xml
